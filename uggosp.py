@@ -126,3 +126,4 @@ if __name__ == "__main__":
         run_gobuster_vsubdomains(target_domain)
 
     print("\nReconnaissance completed.")
+##whatsupp
